@@ -116,10 +116,10 @@ Here's are the key insights from the top 10 Data Analyst jobs:
 
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Data Analytics, reflecting varied roles and specializations within Data Analytics. 
 
-![Top Paying Roles](Assets\Top_paying_roles.png)
+![Top Paying Roles](Project_sql\assets\salary_trends_by_common_job_titles.png)
 *This Bar graph  shows the average salary for the most common job titles, illustrating that certain titles tend to offer higher salaries.*
 
-![Top Paying Companies](Assets\top_paying_companies.png)
+![Top Paying Companies](Project_sql\assets\top_paying_data_analyst_jobs.png)
 *This bar chart visually represents the salaries across different companies, underlining the lucrative opportunities available for Data Analysts in various industries.*
 
 
@@ -164,7 +164,7 @@ Here are the key insights from top paying job skills:
 
 - **Versatility in Skills:** Towards the end of the graph, we see a mix of  tools like  (AWS, Azure, bitbucket, oracle, SAP, Hadoop, Databricks, Git etc.) showing that a well-rounded skill set that includes cloud services, numerical computing, big data, interactive computing, large-scale data processing, and version control can be beneficial for a data analyst looking to advance in their career.
 
-![Top Paying Job Skills](Assets\Top_paying_job_skills.PNG)
+![Top Paying Job Skills](Project_sql\assets\Top_paying_job_skills.PNG)
 *This bar graph represents the frequency distribution of skills for top-paying data analyst jobs.*
 
 ## 3. Most Demanded Skills for Data Analysts.
@@ -188,7 +188,7 @@ Here are the key insights from top 5 in-demand skills:
 
 - **Tableau and Power BI:** Following closely are Tableau and R, which are also highly sought after, likely due to their roles in data visualization and statistical analysis respectively.
 
-![Top 5 In-Demand Skills](Assets\Top_Indemand_skills.png)
+![Top 5 In-Demand Skills](Project_sql\assets\demand_for_skills.png)
 *The bar chart visualizes the top 5 in-demand skills, clearly showing SQL as the most sought-after skill, with a significant lead over the others.*
 
 ## 4. Top Paying Skills.
@@ -219,7 +219,7 @@ Here are the key insights from top paying skills:
 
 **Top Paying Skills:** The data suggests that skills related to big data processing (Pyspark), version control (Bitbucket), database management (Couchbase), artificial intelligence (Watson), and automated machine learning (Datarobot) are highly valued and most paid  in the market for Data Analyst roles.
 
-![Top_Skills_Salary_Data](Assets\top_skills_salary_data_analyst.png)
+![Top_Skills_Salary_Data](Project_sql\assets\average_salary_by_skill.png)
 *The visualization presents the top 25 skills based on average salary for Data Analyst positions, showcasing a diverse range of highly valued skills in the field.*
 
 ## 5 Most Optimal Skills to Learn.
@@ -286,7 +286,7 @@ The top five skills, based on this criteria, are:
 
 **Specialized Skills:** Skills highlighted in the dataset (e.g., Go, Confluence, Hadoop, Snowflake and Azure) might be considered specialized or advanced, often requiring additional learning beyond the foundational skills. This specialization and the smaller supply of professionals with these advanced skills can drive higher average salaries.
 
-![In_Demand_Skills_&_Associated_Salaries](Assets\demand_salary_data_analyst_skills.png)
+![In_Demand_Skills_&_Associated_Salaries](Project_sql\assets\demand_salary_data_analyst_skills.png)
 *This combined bar and line plot, showcases both the demand and average salary of the top skills in data analyst roles. It illustrates a balance between high-paying skills and their market demand, offering strategic insights for  career development in data analysis.*
 
 # What I Learned Tackling SQL for the Data Job Market Project:
