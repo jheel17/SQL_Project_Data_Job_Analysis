@@ -117,7 +117,7 @@ Here's are the key insights from the top 10 Data Analyst jobs:
 
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Data Analytics, reflecting varied roles and specializations within Data Analytics. 
 
-![Top Paying Roles](Project_sql/assets/query1.png)
+![Top Paying Roles](Project_sql\assets\query1.png)
 *This Bar graph  shows the average salary for the most common job titles, illustrating that certain titles tend to offer higher salaries.*
 
 ![Top Paying Companies](Project_sql/assets/query11.png)
