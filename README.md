@@ -164,7 +164,7 @@ Here are the key insights from top paying job skills:
 
 - **Versatility in Skills:** Towards the end of the graph, we see a mix of  tools like  (AWS, Azure, bitbucket, oracle, SAP, Hadoop, Databricks, Git etc.) showing that a well-rounded skill set that includes cloud services, numerical computing, big data, interactive computing, large-scale data processing, and version control can be beneficial for a data analyst looking to advance in their career.
 
-![Top Paying Job Skills](Project_sql\assets\Top paying job skills.png)
+![Top Paying Job Skills)(Project_sql\assets\query1.png)
 *This bar graph represents the frequency distribution of skills for top-paying data analyst jobs.*
 
 ## 3. Most Demanded Skills for Data Analysts.
