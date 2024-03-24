@@ -270,7 +270,7 @@ ORDER BY
     demand_count DESC
 LIMIT 25;
 ```
-Here are the key insights from most optimal skills (aka in high demand and associated with high average salaries): 
+Here are the key insights from most optimal skills (aka in high demand and associated with high average salaries):
 
 The top five skills, based on this criteria, are:
 
