@@ -72,9 +72,10 @@ Here's a summary of the key analyses I performed:
 
 - **Trends in Job Postings Over Time.**
 
-| Posting Year | Number of Job Postings |
-|--------------|------------------------|                |
-| 2023         | 785,791                |
+| posting_year | num_job_postings |
+|--------------|------------------|
+| 2023         | 785,791          |
+
 
 
 ### Next, each query for this project aimed at investigating specific aspects  of the data analyst job market.
@@ -274,11 +275,11 @@ Here are the key insights from most optimal skills (aka in high demand and assoc
 
 The top five skills, based on this criteria, are:
 
-**Go** - Demand Count: 27, Average Salary: $115,319.89
-**Confluence** - Demand Count: 11, Average Salary: $114,209.91
-**Hadoop** - Demand Count: 22, Average Salary: $113,192.57
-**Snowflake** - Demand Count: 37, Average Salary: $112,947.97
-**Azure** - Demand Count: 34, Average Salary: $111,225.10
+- Go: Demand Count: 27, Average Salary: $115,319.89
+- Confluence: Demand Count: 11, Average Salary: $114,209.91
+- Hadoop: Demand Count: 22, Average Salary: $113,192.57
+- Snowflake: Demand Count: 37, Average Salary: $112,947.97
+- Azure: Demand Count: 34, Average Salary: $111,225.10
 
 **Market Trends:** The data suggests a trend towards the value of skills in programming, big data processing, cloud computing, and project management within the data analysis job market. It reflects the industry's growing reliance on cloud-based solutions and big data technologies, as well as the importance of software development skills.
 
